@@ -53,4 +53,4 @@ Education is shifting from "what you know" to "how you think." Most AI study too
 
 ---
 
-*Built for the Google DeepMind - Vibe Code Hackathon 2025.*
+*Built for the Maximally Vibe-a-thon 2025.*
