@@ -1,0 +1,8 @@
+{
+  "name": "MentorAI: Elite Multimodal Study Assistant",
+  "description": "A high-performance educational platform that transforms static content into interactive mastery paths using Gemini 3 Pro reasoning and multimodal RAG.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
